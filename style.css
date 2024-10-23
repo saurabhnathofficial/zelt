@@ -329,3 +329,11 @@ canvas {
     height: 70%;
     width: 70%;
 }
+footer{
+    height: 2vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
